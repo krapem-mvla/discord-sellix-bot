@@ -5,7 +5,6 @@ import json
 import random
 import time
 import os
-import requests
 from os import system
 from discord.ext import commands
 from requests.structures import CaseInsensitiveDict
